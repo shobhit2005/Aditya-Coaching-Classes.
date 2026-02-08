@@ -1,0 +1,7 @@
+{
+  "name": "Aditya Coaching Classes",
+  "description": "Premium coaching for Physics, Chemistry, Math, and English for Class 11, 12, and JEE Mains in Pratapgarh.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
